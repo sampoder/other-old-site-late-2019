@@ -2,38 +2,38 @@
   "basics": {
     "name": "Sam Poder",
     "label": "Student",
-    "picture": "https://sampoder.github.io/samcropped.png",
+    "picture": "https://sampoder.github.io/images/samcropped.png",
     "email": "23samuel.p@gwa.edu.sg",
     "phone": "",
     "website": "https://sampoder.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying the MYP at GEMS World Academy Singapore.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Singapore",
+      "countryCode": "SG",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "sampoder",
+        "url": "http://github.com/sampoder"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "sam_poder",
+        "url": "http://instagram.com/sam_poder"
       }
     ]
   },
