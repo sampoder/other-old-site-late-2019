@@ -284,16 +284,28 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Student of the Year",
+      "date": "2019",
+      "awarder": "GEMS World Academy Singapore",
+      "summary": "Chosen by the whole faculty and awarded to the student who best meets the following criteria: is consistently high achieving in their academic subjects, models the GEMS Core Values, models the IB Learner Profile Attributes, is perceived by all (Faculty and Students) to be a role model around school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "G8 Best Student as Chosen By Teachers",
+      "date": "2019",
+      "awarder": "GEMS World Academy Singapore",
+      "summary": "Voted for being the student that was representing the GEMS Core Values and the IB Learner Profile characteristics in the best possible way."
+    },
+    {
+      "title": "G8 Best Science Fair Project",
+      "date": "2019",
+      "awarder": "GEMS World Academy Singapore Science Department",
+      "summary": "Created a device that detects falls in order to keep the elderly safe."
+    },
+    {
+      "title": "Technology Award",
+      "date": "2018",
+      "awarder": "GEMS World Academy Singapore",
+      "summary": "Recognized for specific efforts in the field of Technology."
     }
   ],
   "references": [
