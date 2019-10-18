@@ -141,6 +141,18 @@
       ]
     },
     {
+      "company": "TeachX",
+      "position": "Founder",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "summary": "",
+      "highlights": [
+        "Created App Idea to Improve Education For Less Fortunate",
+        "Presented at an Apple Educators Conference"
+      ]
+    },
+    {
       "company": "World Scholars Cup",
       "position": "Participant",
       "website": "",
@@ -169,7 +181,7 @@
       ]
     },
     {
-      "company": "Assorted Math & Science Competitions",
+      "company": "Assorted Technology, Math & Science Competitions",
       "position": "Participant",
       "website": "",
       "startDate": "2017-08-01",
@@ -179,9 +191,12 @@
         "Third in my school for the American Maths Competition",
         "School champion of Asian Rockstars of Math for my age group and a Asia Gold Medal Winner",
         "Received a high distinction award in Australia's 2019 Big Science Competition",
-        "My teacher Dr Ong commented &quot Samuel has earned highest honours at external academic competitions and applied his understanding of Science and Technology effectively to his innovations&quot"
+        "My teacher Dr Ong commented &quotSamuel has earned highest honours at external academic competitions and applied his understanding of Science and Technology effectively to his innovations&quot",
+        "Grand Champion, Young Founders Summit 2018",
+        "Minor Prize Winner, Google Code In"
       ]
     },
+    
   ],
   "volunteer": [
     {
