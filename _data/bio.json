@@ -153,6 +153,30 @@
       ]
     },
     {
+      "company": "Jaguar Plus",
+      "position": "Lead Software Developer",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01",
+      "summary": "",
+      "highlights": [
+        "Built a School Communication Platform for School",
+        "Pitched to School Leaders"
+      ]
+    },
+    {
+      "company": "GWA Singapore Addams Family Musical",
+      "position": "Head Sound Engineer",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01",
+      "summary": "",
+      "highlights": [
+        "Created Quality Sound Effects",
+        "Managed Sound Effects on the Performance Day"
+      ]
+    },
+    {
       "company": "World Scholars Cup",
       "position": "Participant",
       "website": "",
@@ -196,6 +220,39 @@
         "Minor Prize Winner, Google Code In"
       ]
     },
+    {
+      "company": "School Sport",
+      "position": "Participant",
+      "website": "",
+      "startDate": "2012-08-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "I have received three gold medals, four silvers and one bronze medal for sport",
+        "Participated in Football, Athletics Cricket & Rugby",
+        "I captained my cricket team to a gold medal and have also participated in cricket outside of school and won multiple trophies.",
+        "Have also played Australian Football Outside of School"
+       
+      ]
+    },
+    {
+      "company": "Other Notable Extracurricular Activities",
+      "position": "Member",
+      "website": "",
+      "startDate": "2016-08-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "School Tech Crew",
+        "Lead Technician for Cultural Day Assembly & Chinese New Year Assembly",
+        "Member of School's Delegation to Beyond COP 21 Symposium as well as participant in environmental action that would follow",
+        "Math Tutor for Younger Students",
+        "Technology Club Leader",
+        "Debate Club",
+        "Model United Nation"
+       
+      ]
+    }
     
   ],
   "volunteer": [
