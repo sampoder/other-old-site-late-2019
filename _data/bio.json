@@ -30,19 +30,32 @@
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "Programming",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Filmmaking",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Computers",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Sport",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Science",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "History",
       "keywords": [
       ]
     }
@@ -54,10 +67,10 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -65,19 +78,22 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
+        "Linux",
+        "Arduino",
+        "Raspberry Pi",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Final Cut Pro",
+        "Photoshop",
+        "Affinity Designer"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "GEMS World Academy Singapore",
+      "area": "IGCSE & IB Diploma",
+      "studyType": "MYP",
+      "startDate": "2017-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -86,27 +102,42 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "GEMS Singapore Student Council",
+      "position": "Vice President",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-08-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Was Elected by the Students",
+        "Drove Change in the Community",
+        "Communicated with School Administration"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Cure Band",
+      "position": "Founder",
+      "website": "http://www.cure-band.com/",
+      "startDate": "2018-01-01",
+      "endDate": "2019-03-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Started a company",
+        "Raised over $10,000",
+        "Developed Machine Learning Algorithms & Mobile Apps"
+      ]
+    },
+    {
+      "company": "Jaguar Roar",
+      "position": "Editor",
+      "website": "",
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "summary": "",
+      "highlights": [
+        "Inaugural Editor of School Newspaper",
+        "Created Innovative & Interactive Digital Experience",
+        "Wrote Articles & Managed Team"
       ]
     }
   ],
