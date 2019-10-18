@@ -204,22 +204,7 @@
         "3x Qualifier for the History Olympiad"
       ]
     },
-    {
-      "company": "Assorted Technology, Math & Science Competitions",
-      "position": "Participant",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Third in my school for the American Maths Competition",
-        "School champion of Asian Rockstars of Math for my age group and a Asia Gold Medal Winner",
-        "Received a high distinction award in Australia's 2019 Big Science Competition",
-        "My teacher Dr Ong commented &quotSamuel has earned highest honours at external academic competitions and applied his understanding of Science and Technology effectively to his innovations&quot",
-        "Grand Champion, Young Founders Summit 2018",
-        "Minor Prize Winner, Google Code In"
-      ]
-    },
+    
     {
       "company": "School Sport",
       "position": "Participant",
@@ -296,16 +281,46 @@
       "summary": "Voted for being the student that was representing the GEMS Core Values and the IB Learner Profile characteristics in the best possible way."
     },
     {
+      "title": "High Distinction Award",
+      "date": "2019",
+      "awarder": "Big Science Competition 2019 (Australian Science Innovations)",
+      "summary": "Applied critical thinking and problem-solving skills to science."
+    },
+    
+    {
       "title": "G8 Best Science Fair Project",
       "date": "2019",
       "awarder": "GEMS World Academy Singapore Science Department",
       "summary": "Created a device that detects falls in order to keep the elderly safe."
     },
     {
+      "title": "Minor Prize Winner",
+      "date": "2019",
+      "awarder": "Google Code In",
+      "summary": "Supported the Open Source Code Community."
+    },
+    {
+      "title": "Gold Medal Winner & School Champion of Asian Rockstars of Math",
+      "date": "2019",
+      "awarder": "MangaHigh",
+      "summary": "Participated in math activities to explore areas of math I had yet to explore in school."
+    },{
+      "title": "Grand Champion",
+      "date": "2019",
+      "awarder": "Young Founders Summit 2018",
+      "summary": "Started a business that helped improve the health of the elderly. View Cure Band Above."
+    },
+    {
       "title": "Technology Award",
       "date": "2018",
       "awarder": "GEMS World Academy Singapore",
       "summary": "Recognized for specific efforts in the field of Technology."
+    },
+    {
+      "title": "Third Place",
+      "date": "2018",
+      "awarder": "American Maths Competition",
+      "summary": ""
     }
   ],
   "references": [
