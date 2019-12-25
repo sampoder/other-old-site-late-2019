@@ -1,0 +1,17 @@
+body {
+    background: black;
+  }
+  
+  div {
+    color: #5dea62;
+    font-family: Monaco, monospace;
+    font-size: 24px;
+    width: 100%;
+    margin-left: 10%;
+    text-align: left;
+    position: absolute;
+    top: 10%;
+    left: 0px;
+    animation: 120ms infinite normal glitch;
+  }
+  
