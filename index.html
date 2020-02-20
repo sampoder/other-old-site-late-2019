@@ -1,7 +1,7 @@
 <head>
     <title>Sam Poder</title>
   </head>
-  
+<body id="body">
   <script src="https://kit.fontawesome.com/44370b3056.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" type="text/css" href="home.css">
 <link rel='icon' href='favicon.png' type='image/x-icon'/ >
@@ -11,4 +11,14 @@
   <a href ="https://www.instagram.com/sam_poder/"><i class="fab fa-instagram"></i></a>
   <a href ="about.html"><i class="fas fa-info-circle"></i></a>
 </div>
+</body>
+<script>
+  var input = document.getElementById("body");
+  input.addEventListener("keyup", function(event) {
+    if (event.keyCode === 13) {
+     event.preventDefault();
+     window.location.href = 'about.html';
+    }
+  });
+  </script>
 
